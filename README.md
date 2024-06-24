@@ -9,3 +9,10 @@ conda create --name ai-photo-booth -c conda-forge python=3.11
 conda activate ai-photo-booth
 pip install -r requirements.txt
 ```
+
+## Usage
+
+```
+conda activate ai-photo-booth
+modal token new
+```
